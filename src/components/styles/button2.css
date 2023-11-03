@@ -3,4 +3,13 @@
   width: 51.12px;
   height: 48.43px;
   border-radius: 12px;
+  position: relative;
+  top: -10px;
+  left: 3px;
+}
+
+
+.icono{
+    position: relative;
+    left: -3px;
 }

@@ -9,7 +9,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <div>
+      <div className='card1'>
         <Profile></Profile>
         <Name></Name>
         <Paragraph></Paragraph>
